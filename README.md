@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amelia </h1>
+<h1 align="center">Hi 👋, I'm Delia </h1>
 
 ### Selamat datang di repositori CRUD Sederhana!
 
